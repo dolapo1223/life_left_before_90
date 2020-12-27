@@ -4,6 +4,7 @@ age = input("What is your current age? ")
 
 #Write your code below this line 👇
 
+print("Welcome to life time left before 90!")
 timeleft = 90 - int(age)
 x = 365 * timeleft
 y = 52 * timeleft
